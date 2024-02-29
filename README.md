@@ -8,4 +8,5 @@ Name: Ruth Johana Hutagalung
 Program: IBM Advanced AI
 ### :robot: Tech Stack:
 - Caikit
+- Hugging Face
 - Python
